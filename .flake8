@@ -1,7 +1,7 @@
 # .flake8
 
 [flake8]
-ignore = E226,E302,E41,E225,F401
+ignore = E226,E302,E41,E225,F401,E125
 max-line-length = 79
 exclude =   migrations, __pycache__, env ,venv
 max-complexity = 10
